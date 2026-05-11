@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.pkl
+*.zip
+
+# Dataset folders
+kitti/
+data/
+datasets/
+raw_data/
+
+# Colab / Drive artifacts
+drive/
